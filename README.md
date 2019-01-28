@@ -1,5 +1,6 @@
 # HypercubePM
 3DPrinter-HypercubePM version
+https://www.youtube.com/watch?v=kAhyeJ2CmXs
 
 Folyamatosan töltöm fel a kapcsolódó anyagokat.
 Egyelőre a Blender állományt használhatjátok Blender 2.8 verzió letöltése szükséges. ( https://www.blender.org/2-8/ )
