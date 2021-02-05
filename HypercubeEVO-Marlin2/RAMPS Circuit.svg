@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -64,7 +64,7 @@
        x="81.90744"
        y="26.67033" />
     <path
-       style="fill:none;stroke:#fc0000;stroke-width:1.00000003;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#ff0000;stroke:#fc0000;stroke-width:1.00000003;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;fill-opacity:0.45967743"
        id="path24"
        sodipodi:type="arc"
        sodipodi:cx="155.68449"
@@ -77,7 +77,7 @@
        sodipodi:arc-type="arc"
        d="m 158.29037,139.24742 a 2.6058776,3.8754082 0 0 1 -2.56697,3.87498 2.6058776,3.8754082 0 0 1 -2.64362,-3.75927 2.6058776,3.8754082 0 0 1 2.48803,-3.98723 2.6058776,3.8754082 0 0 1 2.71792,3.6402" />
     <path
-       style="fill:none;stroke:#fc0000;stroke-width:1.28043;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;stroke:#0094fc;stroke-width:1.28;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;fill-opacity:1"
        id="path24-1"
        sodipodi:type="arc"
        sodipodi:cx="176.3979"
@@ -90,7 +90,7 @@
        sodipodi:arc-type="arc"
        d="m 179.00378,141.99297 a 2.6058776,6.3536911 0 0 1 -2.56697,6.35298 2.6058776,6.3536911 0 0 1 -2.64362,-6.16328 2.6058776,6.3536911 0 0 1 2.48803,-6.53702 2.6058776,6.3536911 0 0 1 2.71791,5.96807" />
     <path
-       style="fill:none;stroke:#fc0000;stroke-width:0.751371;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;stroke:#0083d6;stroke-width:1.151;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path24-1-4"
        sodipodi:type="arc"
        sodipodi:cx="188.69231"
@@ -176,7 +176,7 @@
          style="fill:#ff0000;stroke:#ffffff;stroke-width:0.264583"
          id="tspan973">Relay</tspan></text>
     <path
-       style="fill:none;stroke:#fc0000;stroke-width:0.412;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;stroke:#00a1fc;stroke-width:0.712;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path24-1-6"
        sodipodi:type="arc"
        sodipodi:cx="108.92766"
@@ -189,7 +189,7 @@
        sodipodi:arc-type="arc"
        d="m 113.92878,160.3085 a 5.001122,11.748844 0 0 1 -4.92645,11.74754 5.001122,11.748844 0 0 1 -5.07356,-11.39674 5.001122,11.748844 0 0 1 4.77495,-12.08786 5.001122,11.748844 0 0 1 5.21614,11.03579" />
     <path
-       style="fill:none;stroke:#fc0000;stroke-width:0.25078;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;stroke:#00a5e8;stroke-width:0.651;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path24-1-6-0"
        sodipodi:type="arc"
        sodipodi:cx="133.61461"
@@ -487,7 +487,7 @@
        sodipodi:arc-type="arc"
        d="m 250.04455,116.48286 a 1.9976614,3.8754082 0 0 1 -1.96783,3.87497 1.9976614,3.8754082 0 0 1 -2.0266,-3.75926 1.9976614,3.8754082 0 0 1 1.90732,-3.98723 1.9976614,3.8754082 0 0 1 2.08355,3.6402" />
     <path
-       style="fill:none;stroke:#fc0000;stroke-width:0.751372;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;stroke:#008bda;stroke-width:1.151;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path24-1-4-9"
        sodipodi:type="arc"
        sodipodi:cx="188.64793"
@@ -500,7 +500,7 @@
        sodipodi:arc-type="arc"
        d="m 191.25381,145.78543 a 2.6058776,2.1878769 0 0 1 -2.56697,2.18763 2.6058776,2.1878769 0 0 1 -2.64362,-2.1223 2.6058776,2.1878769 0 0 1 2.48803,-2.25101 2.6058776,2.1878769 0 0 1 2.71792,2.05509" />
     <path
-       style="fill:none;stroke:#fc0000;stroke-width:0.25078;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;stroke:#008fe0;stroke-width:0.651;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path24-1-6-0-0"
        sodipodi:type="arc"
        sodipodi:cx="133.35002"
