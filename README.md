@@ -11,7 +11,7 @@ RAMPS 1.4 (1.6) Marlin 2.0 config:
 - Two cooling fan (one fixed for dual extruders (12VPower), one controlled for hotends (PIN D8))
 - Heated bed (fast modern heat with SSR controlled 110/230v silicon heater) (PIN D4 Servo)
 
-![Image](https://github.com/hgabor47/HypercubeEVO-with-dual-extruder-controlled-fan-heated-bed-Marlin-2.0/blob/master/HypercubeEVO-Marlin2/RAMP%20Circuit.png?raw=true Schema)
+![Image](https://github.com/hgabor47/HypercubeEVO-with-dual-extruder-controlled-fan-heated-bed-Marlin-2.0/blob/master/HypercubeEVO-Marlin2/RAMP%20Circuit.png?raw=true)
 
 # OLD:
 # HypercubePM
