@@ -34,7 +34,7 @@
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1845"
+     inkscape:window-width="1823"
      inkscape:window-height="1057"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -127,14 +127,14 @@
     <text
        xml:space="preserve"
        style="font-size:7.05556px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#ff0000;stroke:#ffffff;stroke-width:0.264583"
-       x="42.593426"
-       y="104.7967"
+       x="39.68301"
+       y="109.03003"
        id="text881-6-6"><tspan
          sodipodi:role="line"
          id="tspan879-4-3"
-         x="42.593426"
-         y="104.7967"
-         style="fill:#ff0000;stroke:#ffffff;stroke-width:0.264583">FAN Hotend</tspan></text>
+         x="39.68301"
+         y="109.03003"
+         style="fill:#ff0000;stroke:#ffffff;stroke-width:0.264583">or LASER</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.05556px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#ff0000;stroke:#ffffff;stroke-width:0.264583"
@@ -626,5 +626,16 @@
          x="225.19557"
          y="77.877419"
          style="font-size:4.23333px;fill:#0077ff;fill-opacity:1;stroke:#4999d1;stroke-width:0.165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">X   Y  ZTouch</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#ff0000;stroke:#ffffff;stroke-width:0.264583"
+       x="39.801865"
+       y="103.47379"
+       id="text881-6-6-9"><tspan
+         sodipodi:role="line"
+         id="tspan879-4-3-1"
+         x="39.801865"
+         y="103.47379"
+         style="fill:#ff0000;stroke:#ffffff;stroke-width:0.264583">FAN Hotend</tspan></text>
   </g>
 </svg>
