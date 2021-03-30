@@ -79,7 +79,7 @@
   #define SERVO2_PIN                           5
 #endif
 #ifndef SERVO3_PIN
-  #define SERVO3_PIN                           -1 //SSR BED 4
+  #define SERVO3_PIN                           4
 #endif
 
 //
@@ -209,7 +209,7 @@
 #ifndef RAMPS_D10_PIN
   #define RAMPS_D10_PIN                       10
 #endif
-#define HEATER_BED_PIN            4 //Hypercube two extruder + fan + SSR bed
+
 #define HEATER_0_PIN               RAMPS_D10_PIN
 
 #if ENABLED(IS_RAMPS_EFB)                         // Hotend, Fan, Bed
