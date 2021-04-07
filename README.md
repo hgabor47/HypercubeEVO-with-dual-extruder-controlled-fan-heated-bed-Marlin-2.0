@@ -16,6 +16,11 @@ RAMPS 1.4 (1.6) Marlin 2.0 config:
 I use TMC2100 stepper drivers for XYZ and A4899 for extruders but this is up to you.
 And no additional electric circuit needed (if you use SSR for bed heating like me)
 
+#Three toolhead
+- 3D Printing toolhead
+- Laser toolhead
+- Engraver toolhead (special configuration file in dir)
+
 ![Image](https://raw.githubusercontent.com/hgabor47/HypercubeEVO-with-dual-extruder-controlled-fan-heated-bed-Marlin-2.0/master/HypercubeEVO-Marlin2/Photos/ChimeraExtruder_Coolers_BLTouch.jpg)
 
 # OLD:
